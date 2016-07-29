@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 #define TAB_SIZE 4
-#define MEM_MAX 32768
+#define MEM_MAX 65536
 #define PRC_MAX 256
 #define STK_MAX 256
 
