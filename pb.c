@@ -130,6 +130,9 @@ int main(int argc,char **argv) {
 					cp++;
 				}
 				break;
+			case '@':
+				exit(m[mp]);
+				break;
 			default: break;
 		}
 		
